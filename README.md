@@ -86,3 +86,21 @@ python3 app.py
   ```chmod +x MagicMultiTool.sh```
 
 # Thats the end of the guide.. i hope yall enjoy my open source port for magicchatbox for vrchat
+
+#### Little Update:
+
+## Set up the virtual environment using
+
+ ```python3 -m venv venv```
+
+## Activate the virtual environment
+
+  #### Windows: venv\Scripts\activate
+  #### MacOS/Linux: source venv/bin/activate
+
+## When done install flask
+
+  ```pip install flask```
+  ##### Also if that dont work try pip3 insted of pip
+
+## And then run the .sh or .bat
